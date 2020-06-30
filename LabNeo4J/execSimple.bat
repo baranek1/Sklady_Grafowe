@@ -1,0 +1,1 @@
+mvn clean compile exec:java -Dexec.mainClass="pl.kielce.tu.neo4j.simple.TestNeo4J"
